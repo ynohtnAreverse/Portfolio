@@ -1,0 +1,44 @@
+/* Hover effet sur image + ecrire en descriptif "cliquer"  */
+.web{
+    text-align: center;
+    font-size: larger;
+}
+
+.bandeaux{
+    display: block;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    block-size: 15em 
+}
+
+
+.img1{    
+    /* width: 400px; */
+    text-align: left;
+    block-size: 16em;
+    margin: 0em;
+}   
+.img2{    
+    /* width: 400px; */
+    text-align: center;
+    block-size: 16em;
+} 
+.img3{    
+    /* width: 400px; */
+    text-align: center;
+    block-size: 16em;
+}
+.img4{    
+    /* width: 400px; */
+    text-align: right;
+    block-size: 16em;
+} 
+
+
+
+
+/* .zone{
+    display: inline-block;
+    display: flex;
+    height: 300px;
+} */
